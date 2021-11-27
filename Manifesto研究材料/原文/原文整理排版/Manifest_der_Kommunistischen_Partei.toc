@@ -1,0 +1,11 @@
+\contentsline {section}{I. Bourgeois und Proletarier}{2}{section*.2}%
+\contentsline {section}{II. Proletarier und Kommunisten}{11}{section*.3}%
+\contentsline {section}{III. Sozialistische und kommunistische Literatur}{19}{section*.4}%
+\contentsline {subsection}{1. Der reaktionäre Sozialismus}{19}{section*.5}%
+\contentsline {subsubsection}{a) Der feudale Sozialismus}{19}{section*.6}%
+\contentsline {subsubsection}{b) Kleinbürgerlicher Sozialismus}{21}{section*.7}%
+\contentsline {subsubsection}{c) Der deutsche oder „wahre“ Sozialismus}{22}{section*.8}%
+\contentsline {subsection}{2. Der konservative oder Bourgeoissozialismus}{24}{section*.9}%
+\contentsline {subsection}{3. Der kritisch-utopistische Sozialismus oder Kommunismus}{25}{section*.10}%
+\contentsline {section}{IV. Stellung der Kommunisten zu den verschiedenen oppositionellen Parteien}{27}{section*.11}%
+\contentsline {section}{Notes}{30}{section*.12}%
